@@ -1,0 +1,9 @@
+[submodule "Amharic-NLP"]
+	path = Amharic-NLP
+	url = https://github.com/IsraelAbebe/Amharic-NLP.git
+[submodule "ml-algorithems-from-scratch"]
+	path = ml-algorithems-from-scratch
+	url = https://github.com/IsraelAbebe/ml-algorithems-from-scratch.git
+[submodule "Afaratlas2017"]
+	path = Afaratlas2017
+	url = https://github.com/IsraelAbebe/Afaratlas2017.git
