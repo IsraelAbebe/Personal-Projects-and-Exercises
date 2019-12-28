@@ -7,3 +7,6 @@
 [submodule "Afaratlas2017"]
 	path = Afaratlas2017
 	url = https://github.com/IsraelAbebe/Afaratlas2017.git
+[submodule "Generative-Learning-Algorithms"]
+	path = Generative-Learning-Algorithms
+	url = https://github.com/IsraelAbebe/Generative-Learning-Algorithms
