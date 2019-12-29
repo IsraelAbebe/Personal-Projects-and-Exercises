@@ -10,3 +10,6 @@
 [submodule "Generative-Learning-Algorithms"]
 	path = Generative-Learning-Algorithms
 	url = https://github.com/IsraelAbebe/Generative-Learning-Algorithms
+[submodule "TelegramBots"]
+	path = TelegramBots
+	url = https://github.com/IsraelAbebe/TelegramBots
