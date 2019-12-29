@@ -25,3 +25,8 @@ Collection of git repositories containing my projects and Exercises for Competit
 ------------------------
   General NLP problems i experiments with.
      - [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/overview)
+
+
+### Generative Learning algorithms
+---------------------------------
+The generative model is the model that first try to learn what each object might look like. Then, based on input, it gives a probability of the input being this class.
