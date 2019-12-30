@@ -13,3 +13,6 @@
 [submodule "TelegramBots"]
 	path = TelegramBots
 	url = https://github.com/IsraelAbebe/TelegramBots
+[submodule "WinePricePrediction"]
+	path = WinePricePrediction
+	url = https://github.com/IsraelAbebe/WinePricePrediction
