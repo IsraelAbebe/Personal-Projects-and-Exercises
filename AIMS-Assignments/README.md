@@ -13,3 +13,9 @@
 - [Practical Session 3](https://github.com/IsraelAbebe/Personal-Projects-and-Exercises/blob/master/AIMS-Assignments/Deep-Learning/Exercise_3_Jan_24.ipynb)
         Convolutional Neural Netwrok
   
+  
+  
+  
+## Additional
+
+    - [Conv Calculation helper](https://gist.github.com/IsraelAbebe/a789038027f39eff7389736386ccca74)
