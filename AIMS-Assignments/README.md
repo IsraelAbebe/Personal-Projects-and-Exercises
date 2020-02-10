@@ -11,7 +11,10 @@
         Neural Network
        
 - [Practical Session 3](https://github.com/IsraelAbebe/Personal-Projects-and-Exercises/blob/master/AIMS-Assignments/Deep-Learning/Exercise_3_Jan_24.ipynb)
-        Convolutional Neural Netwrok
+        Convolutional Neural Network
+
+- [Practical Session 4](https://github.com/IsraelAbebe/Personal-Projects-and-Exercises/blob/master/AIMS-Assignments/Deep-Learning/israel_convnet_tutorial.ipynb)
+        Convolution Neural Network 2
   
   
   
