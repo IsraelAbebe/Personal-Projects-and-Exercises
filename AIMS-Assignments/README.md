@@ -21,4 +21,4 @@
   
 ## Additional
 
-   -[Conv Calculation helper](https://gist.github.com/IsraelAbebe/a789038027f39eff7389736386ccca74)
+   -[Conv Calculation helper](https://gist.github.com/IsraelAbebe/b4a3f4bbcf620201cce2127ebe135bc2)
