@@ -15,6 +15,10 @@
 
 - [Practical Session 4](https://github.com/IsraelAbebe/Personal-Projects-and-Exercises/blob/master/AIMS-Assignments/Deep-Learning/israel_convnet_tutorial.ipynb)
         Convolution Neural Network 2
+        
+        
+- [Practical Session 5](https://github.com/IsraelAbebe/Personal-Projects-and-Exercises/blob/master/AIMS-Assignments/Deep-Learning/Auto_Encoder_exercise.ipynb)
+        Auto Encoder 
   
   
   
