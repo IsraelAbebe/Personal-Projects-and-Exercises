@@ -19,6 +19,9 @@
         
 - [Practical Session 5](https://github.com/IsraelAbebe/Personal-Projects-and-Exercises/blob/master/AIMS-Assignments/Deep-Learning/Auto_Encoder_exercise.ipynb)
         Auto Encoder 
+        
+- [Practical Session 6](https://github.com/IsraelAbebe/Personal-Projects-and-Exercises/blob/master/AIMS-Assignments/Deep-Learning/Israel_VAE_exercise.ipynb)
+        Variational Auto Encoder 
   
   
   
