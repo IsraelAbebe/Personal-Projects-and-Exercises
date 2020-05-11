@@ -1,3 +1,4 @@
+#!/bin/bash 
 sudo apt-get install software-properties-common
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt-get update
